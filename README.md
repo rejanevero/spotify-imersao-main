@@ -3,6 +3,9 @@
 
 Aqui está uma visão geral da interface da aplicação:
 
+
+![Image](https://github.com/user-attachments/assets/8395c777-09cc-4da2-93a4-6abea7779efb)
+
 # Spotify Imersão
 
 O **Spotify Imersão** é uma aplicação web desenvolvida em HTML e CSS durante a Imersão Alura. Permite criar e gerenciar playlists, descobrir novos artistas e acompanhar tendências musicais, tudo com uma interface amigável.
